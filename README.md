@@ -64,4 +64,4 @@ When you query MKM market with the button on the <em>Deck List</em> page, these 
 <h1>Donate and Share</h1>
 If you like myDeckWishlist and you want to support me, feel free to donate here: <a href="https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&amp;SESSION=oIsZpnUISduIiZQNomHIwARd3aC-zPrsr5Dyj1UaUflkIH-UoUeoywJxydC&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d333dc9aadeed3fe0b5b299d55fd35542">Donate</a>
 
-You may also share it with your friends and comment <a href="https://miriamxyra.com">miriamxyra.com</a>. It's not perfect yet, so if you have any suggestions for improvement, let me know.
+You may also share it with your friends and comment <a href="http://wp.me/p5QwIJ-dj">miriamxyra.com</a>. It's not perfect yet, so if you have any suggestions for improvement, let me know.
